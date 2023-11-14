@@ -1,14 +1,12 @@
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
 # savage-auth
+
+Simple message board site that allows users to make a profile. The Message board allows user to add a message, like and dislike a message, and delete a message. Messages are sorted from most liked to least.
+
+
+![alt tag](public/img/savage-auth-sc.png)
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, EJS
+
+
